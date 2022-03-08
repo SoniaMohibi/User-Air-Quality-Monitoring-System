@@ -1,0 +1,178 @@
+{
+  "Aqicards":[
+   {
+      "titl": "Air Fatal Particles",
+      "subtitle": "PM2.5, PM10–2.5, PM10, O3, SO2",
+      "description":"A growing body of evidence links chronic exposure to air pollution especially particulate matter (PM) with mortality resulting from a variety of heart, lung, and even liver ",
+      "image":"img/portfolio/masked2.jpg",
+      "link":"https://air.plumelabs.com/learn/en/particulate-matter?utm_source=accuweather&utm_medium=pm10&utm_campaign=aq_page#ae16",
+    "nextlink":"https://www.who.int/health-topics/air-pollution#:~:text=Ambient%20air%20pollution%20accounts%20for,quality%20levels%20exceed%20WHO%20limits"
+   },
+    {
+      "titl": "Sensitive Groups To Polluted Air",
+      "subtitle": "asthma, cardiovascular, infants",
+      "description":"People’s health risk from air pollution varies widely depending on age, where they live, their underlying health, and other factors of changes ",
+      "image":"img/portfolio/aqi.jpg",
+      "link": "",
+      "nextlink":""
+    },
+   {
+      "titl": "What is AQI?",
+      "subtitle": "Air Quality Index",
+      "description":"Think of the AQI as a yardstick that runs from 0 to 500. The higher the AQI value,the greater the risks of previous mentioned diseases.They are rampand everywhere one travels",
+      "image":"img/portfolio/masked.jpg",
+      "link": "",
+      "nextlink":""
+    }
+    
+  ]
+,
+  "Header": {
+    "title": "Air Quality at IBA",
+    "paragraph": "Monitoring realtime air quality (AQI) at IBA"
+  },
+  "About": {
+    "paragraph": "Smart AQI The Best air monitoring system used to detect air quality. We have come up with most accurate and reliable quality of air any time you want.Utilizing the wide detecting scope, fast responsiveness, high sensitivity, stability of the sensors,Smart AQI depicts the air quality at aparticular area"
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-bolt ",
+      "name": "Air Monitoring",
+      "text": "We monitor air quality of a particular area in realtime taht is reliable and accurate"
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "name": "Air Reporting",
+      "text": "The reporting of monitored air can also be depicted that provides further information about the air quality"
+    },
+    {
+      "icon": "fa fa-thin fa-bell",
+      "name": "Notifications",
+      "text": "Smart AQI also notifies the user of higly polluted air to take precautions.If AQI > 300,move to a save place"
+    },
+    {
+      "icon": "fa fa-light fa-download",
+      "name": "Downloading",
+      "text": "We provide downloading of the air result report in csv format"
+    },
+    {
+      "icon": "fa fa-solid fa-paperclip",
+      "name": "AQI NewsLetter and Articles",
+      "text": "We provide articles about the world AQI"
+    },
+    {
+      "icon": "fa fa-thin fa-cart-plus",
+      "name": "Smart AQI Products",
+      "text": "We provide AQI products that provides fresh and healthy air at home or business"
+       }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Dr. Syed Asif Raza Shah"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Hassaan Shahzad"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Sonia Mohibi"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Pardeep Kumar"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Dr Syed Asif Raza Shah",
+      "job": "Supervisor"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Hassaan Shahzad",
+      "job": "Group Leader"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Pardeep Kumar",
+      "job": "Mobile Developer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Sonia Mohibi",
+      "job": "Web Developer"
+    }
+  ],
+  "Contact": {
+    "address": "Sukkur IBA University, Airport Road, Sukkur ",
+    "phone": "+923440204988",
+    "email": "smartaqi@gmail.com",
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://api.whatsapp.com/send?phone=+923440204988",
+    "youtube": "https://twitter.com/sonia_mohibi"
+  }
+}
